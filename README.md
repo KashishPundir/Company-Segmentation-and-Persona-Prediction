@@ -385,13 +385,11 @@ ESG-Company-Intelligence-Platform/
 ## ⚙ Installation
 
 ```bash
-git clone https://github.com/yourusername/ESG-Company-Intelligence-Platform.git
+git clone https://github.com/KashishPundir/Company-Segmentation-and-Persona-Prediction.git
 
-cd ESG-Company-Intelligence-Platform
+cd app
 
-pip install -r requirements.txt
-
-streamlit run app/app.py
+streamlit run app.py
 ```
 
 ---
