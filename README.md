@@ -385,7 +385,13 @@ ESG-Company-Intelligence-Platform/
 ## ⚙ Installation
 
 ```bash
+1. Clone repository
 git clone https://github.com/KashishPundir/Company-Segmentation-and-Persona-Prediction.git
+
+2. Find folder place where it is cloned and saved.
+
+3. Navigate to that folder by:
+cd <Folder url>
 
 cd app
 
