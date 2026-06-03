@@ -6,8 +6,12 @@ import joblib
 # -------------------------
 # Load Model
 # -------------------------
-model = joblib.load("company_persona_classifier.pkl")
-scaler = joblib.load("scaler.pkl")
+model = joblib.load(
+    "models/company_persona_classifier.pkl"
+)
+scaler = joblib.load(
+    "models/scaler.pkl"
+)
 
 # -------------------------
 # Page Config
