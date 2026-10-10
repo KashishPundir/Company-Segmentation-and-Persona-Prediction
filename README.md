@@ -257,22 +257,14 @@ Company-Segmentation-and-Persona-Prediction/
    ```bash
    git clone https://github.com/KashishPundir/Company-Segmentation-and-Persona-Prediction.git
    ```
-
-2. **Navigate into the project folder**
+   
+2. **Installed libraries**
    ```bash
-   cd Company-Segmentation-and-Persona-Prediction
-   ```
-
-3. **Verify the trained models are present**
-   ```bash
-   dir models
-   ```
-4. **Installed libraries**
-   ```bash
+   python -m pip install --upgrade pip
    python -m pip install -r requirements.txt
    ```
    
-4. **Run the app locally**
+3. **Run the app locally**
    ```bash
    streamlit run app/app.py
    ```
